@@ -1,0 +1,4 @@
+This is a sample text file to be added to staging area now.
+Adding new text.
+Adding newer text.
+Adding even newer text.
